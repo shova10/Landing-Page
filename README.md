@@ -74,7 +74,7 @@ coffee-landing-page/
 🎨 Screenshot 
 ![landingpage1](https://github.com/user-attachments/assets/42fa0036-1ef5-43d3-b1fe-f661d99624e7)
 ![landingpage2](https://github.com/user-attachments/assets/63c77930-7f38-48d3-82d1-839560b3fc55)
-![landingpage3](https://github.com/user-attachments/assets/6c6d2b13-ae55-4f07-97eb-3f4263028b2e)
+![landingpage3](https://github.com/user-attachments/assets/bdb800e4-e718-4c57-ad28-31f7325c5a09)
 ![landingpage4](https://github.com/user-attachments/assets/2d4193ac-4670-4548-999b-1cf7793c3353)
 ![landingpage5](https://github.com/user-attachments/assets/254e5826-4fcf-4217-b124-9a37c12696f8)
 ![landingpage6](https://github.com/user-attachments/assets/78146ce7-86de-4a0b-ba7b-dffad06e6829)
