@@ -1,6 +1,3 @@
-Here's a README for your Coffee Landing Page, ready for GitHub:
-
------
 
 # ☕ Coffee Shop Landing Page
 
